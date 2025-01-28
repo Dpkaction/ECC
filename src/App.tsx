@@ -1,4 +1,4 @@
-ralized databaseimport React, { useState } from 'react';
+import React, { useState } from 'react';
 import { WalletSection } from './components/WalletSection';
 import { BlockchainVisualizer } from './components/BlockchainVisualizer';
 import { DataSection } from './components/DataSection';
